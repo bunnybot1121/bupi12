@@ -1,0 +1,16 @@
+{
+    "name": "Place for Us",
+    "short_name": "Place4Us",
+    "start_url": "index.html",
+    "display": "standalone",
+    "background_color": "#ffeaf4",
+    "theme_color": "#eea2b9",
+    "icons": [
+      {
+        "src": "assets/couple-heart.png",
+        "sizes": "192x192",
+        "type": "image/png"
+      }
+    ]
+  }
+  
